@@ -1,0 +1,1 @@
+lista = ["manzana", "pera", "fresa", "platano"]
